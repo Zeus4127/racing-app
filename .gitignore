@@ -10,3 +10,7 @@ key-password.txt
 *.py
 *.md
 node_modules/
+# backup copies, never publish
+icons_before-*/
+*.before-*
+.gitignore.before-v5.3-2026-11-18
